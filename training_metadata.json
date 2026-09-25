@@ -1,0 +1,16 @@
+{
+  "best_model": "ExtraTrees",
+  "rows_raw": 56244,
+  "rows_after_cleaning": 55832,
+  "train_rows": 44665,
+  "test_rows": 11167,
+  "test_size": 0.2,
+  "random_state": 42,
+  "target_transformation": "log1p",
+  "metrics": {
+    "MAE": 1075.0136110883554,
+    "MSE": 7158157.094797026,
+    "RMSE": 2675.473246884937,
+    "R2": 0.9028857139183861
+  }
+}
